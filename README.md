@@ -4,8 +4,6 @@ A Python project for exploring electricity-market fundamentals across European b
 
 The project combines load, generation, residual load, day-ahead prices and cross-border information into a concise report. It includes a command-line script and an interactive Jupyter notebook with zone selectors, configurable reporting periods and Plotly charts.
 
-Developed by **Boonsita Kittiwirayanon** as part of a transition from energy engineering and numerical modelling towards energy-market analysis.
-
 ## What the project does
 
 - Retrieves available data from the ENTSO-E Transparency Platform, or loads local CSV files.
