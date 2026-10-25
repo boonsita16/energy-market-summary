@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy
+plotly>=5.0
+ipywidgets>=8.0
+entsoe-py
+jupyterlab
